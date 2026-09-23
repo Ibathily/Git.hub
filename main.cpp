@@ -32,6 +32,7 @@ int main() {
     personnage.addvie(10);
     cout << "Vie du personnage : " << personnage.vie << endl;
     cout << "SALUT DARRIL : " << personnage.vie << endl;
+    cout << "SALUT IBRAHIM : " << personnage.vie << endl;
 
     return 0;
 }
