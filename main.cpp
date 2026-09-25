@@ -6,6 +6,10 @@ void multiply(int first, int second) {
     cout << first * second << endl;
 }
 
+void add(int first, int second) {
+    cout << first * second << endl;
+}
+
 void Print(){
     cout << "Hello World!" << endl;
 }
